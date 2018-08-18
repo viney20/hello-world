@@ -1,0 +1,13 @@
+
+git config --global user.name"viney20"
+git config --global user.email"viney1962.cse16@chikara.edu.in"
+
+git init  
+
+git status  
+
+git add .A  
+
+git commit -m" "https://github.com/raotarun/assignment-first.git
+
+git push origin master
